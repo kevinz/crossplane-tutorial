@@ -14,5 +14,6 @@
     crossplane-cli
     teller
     kubernetes-helm
+    bash-completion
   ];
 }
